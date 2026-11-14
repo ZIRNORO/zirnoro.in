@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zirnoro.in/sitemap.xml
